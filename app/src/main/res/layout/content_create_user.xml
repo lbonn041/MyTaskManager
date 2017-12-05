@@ -56,4 +56,4 @@
         android:text="Enter the user name"
         android:textAlignment="center"
         android:textColor="?attr/colorControlHighlight" />
-</RelativeLayout>
+</RelativeLayout
